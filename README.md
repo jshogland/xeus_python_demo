@@ -6,7 +6,7 @@ xeus-python + JupyterLite deployed as a static site to GitHub Pages, for demo pu
 
 ## ✨ Try it in your browser ✨
 
-[Hoglands's Jupyterlite Test](https://jshogland.github.io/xeus_python_demo/)
+[Hogland's Jupyterlite Test](https://jshogland.github.io/xeus_python_demo/)
 
 ## ≠ How does it compare to the Pyodide kernel?
 
